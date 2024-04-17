@@ -1,0 +1,15 @@
+D:\Wipro Assignments\C# DAY 3 ASSIGNMENTS\C#_Day_3_Practice\bin\Debug\net8.0\C#_Day_3_Practice.exe
+D:\Wipro Assignments\C# DAY 3 ASSIGNMENTS\C#_Day_3_Practice\bin\Debug\net8.0\C#_Day_3_Practice.deps.json
+D:\Wipro Assignments\C# DAY 3 ASSIGNMENTS\C#_Day_3_Practice\bin\Debug\net8.0\C#_Day_3_Practice.runtimeconfig.json
+D:\Wipro Assignments\C# DAY 3 ASSIGNMENTS\C#_Day_3_Practice\bin\Debug\net8.0\C#_Day_3_Practice.dll
+D:\Wipro Assignments\C# DAY 3 ASSIGNMENTS\C#_Day_3_Practice\bin\Debug\net8.0\C#_Day_3_Practice.pdb
+D:\Wipro Assignments\C# DAY 3 ASSIGNMENTS\C#_Day_3_Practice\obj\Debug\net8.0\C#_Day_3_Practice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wipro Assignments\C# DAY 3 ASSIGNMENTS\C#_Day_3_Practice\obj\Debug\net8.0\C#_Day_3_Practice.AssemblyInfoInputs.cache
+D:\Wipro Assignments\C# DAY 3 ASSIGNMENTS\C#_Day_3_Practice\obj\Debug\net8.0\C#_Day_3_Practice.AssemblyInfo.cs
+D:\Wipro Assignments\C# DAY 3 ASSIGNMENTS\C#_Day_3_Practice\obj\Debug\net8.0\C#_Day_3_Practice.csproj.CoreCompileInputs.cache
+D:\Wipro Assignments\C# DAY 3 ASSIGNMENTS\C#_Day_3_Practice\obj\Debug\net8.0\C#_Day_3_Practice.sourcelink.json
+D:\Wipro Assignments\C# DAY 3 ASSIGNMENTS\C#_Day_3_Practice\obj\Debug\net8.0\C#_Day_3_Practice.dll
+D:\Wipro Assignments\C# DAY 3 ASSIGNMENTS\C#_Day_3_Practice\obj\Debug\net8.0\refint\C#_Day_3_Practice.dll
+D:\Wipro Assignments\C# DAY 3 ASSIGNMENTS\C#_Day_3_Practice\obj\Debug\net8.0\C#_Day_3_Practice.pdb
+D:\Wipro Assignments\C# DAY 3 ASSIGNMENTS\C#_Day_3_Practice\obj\Debug\net8.0\C#_Day_3_Practice.genruntimeconfig.cache
+D:\Wipro Assignments\C# DAY 3 ASSIGNMENTS\C#_Day_3_Practice\obj\Debug\net8.0\ref\C#_Day_3_Practice.dll

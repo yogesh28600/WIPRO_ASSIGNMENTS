@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Wipro Assignments\\C# DAY 3 ASSIGNMENTS\\C#_Day_3_Assignments\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B91C9BA-95A9-4805-9D67-FD7ACA316C03}|C#_Day_3_Assignments.csproj|d:\\wipro assignments\\c# day 3 assignments\\c#_day_3_assignments\\task4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B91C9BA-95A9-4805-9D67-FD7ACA316C03}|C#_Day_3_Assignments.csproj|solutionrelative:task4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B91C9BA-95A9-4805-9D67-FD7ACA316C03}|C#_Day_3_Assignments.csproj|d:\\wipro assignments\\c# day 3 assignments\\c#_day_3_assignments\\task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B91C9BA-95A9-4805-9D67-FD7ACA316C03}|C#_Day_3_Assignments.csproj|solutionrelative:task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B91C9BA-95A9-4805-9D67-FD7ACA316C03}|C#_Day_3_Assignments.csproj|d:\\wipro assignments\\c# day 3 assignments\\c#_day_3_assignments\\task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B91C9BA-95A9-4805-9D67-FD7ACA316C03}|C#_Day_3_Assignments.csproj|solutionrelative:task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B91C9BA-95A9-4805-9D67-FD7ACA316C03}|C#_Day_3_Assignments.csproj|d:\\wipro assignments\\c# day 3 assignments\\c#_day_3_assignments\\task3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B91C9BA-95A9-4805-9D67-FD7ACA316C03}|C#_Day_3_Assignments.csproj|solutionrelative:task3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Task4.cs",
+              "DocumentMoniker": "D:\\Wipro Assignments\\C# DAY 3 ASSIGNMENTS\\C#_Day_3_Assignments\\Task4.cs",
+              "RelativeDocumentMoniker": "Task4.cs",
+              "ToolTip": "D:\\Wipro Assignments\\C# DAY 3 ASSIGNMENTS\\C#_Day_3_Assignments\\Task4.cs",
+              "RelativeToolTip": "Task4.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T07:30:56.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Task3.cs",
+              "DocumentMoniker": "D:\\Wipro Assignments\\C# DAY 3 ASSIGNMENTS\\C#_Day_3_Assignments\\Task3.cs",
+              "RelativeDocumentMoniker": "Task3.cs",
+              "ToolTip": "D:\\Wipro Assignments\\C# DAY 3 ASSIGNMENTS\\C#_Day_3_Assignments\\Task3.cs",
+              "RelativeToolTip": "Task3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T07:22:36.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Task2.cs",
+              "DocumentMoniker": "D:\\Wipro Assignments\\C# DAY 3 ASSIGNMENTS\\C#_Day_3_Assignments\\Task2.cs",
+              "RelativeDocumentMoniker": "Task2.cs",
+              "ToolTip": "D:\\Wipro Assignments\\C# DAY 3 ASSIGNMENTS\\C#_Day_3_Assignments\\Task2.cs",
+              "RelativeToolTip": "Task2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T06:22:49.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Task1.cs",
+              "DocumentMoniker": "D:\\Wipro Assignments\\C# DAY 3 ASSIGNMENTS\\C#_Day_3_Assignments\\Task1.cs",
+              "RelativeDocumentMoniker": "Task1.cs",
+              "ToolTip": "D:\\Wipro Assignments\\C# DAY 3 ASSIGNMENTS\\C#_Day_3_Assignments\\Task1.cs",
+              "RelativeToolTip": "Task1.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwDgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T06:09:35.138Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

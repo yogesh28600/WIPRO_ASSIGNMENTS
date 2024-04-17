@@ -1,0 +1,15 @@
+D:\Wipro Assignments\C# DAY 3 ASSIGNMENTS\C#_Day_3_Assignments\bin\Debug\net8.0\C#_Day_3_Assignments.exe
+D:\Wipro Assignments\C# DAY 3 ASSIGNMENTS\C#_Day_3_Assignments\bin\Debug\net8.0\C#_Day_3_Assignments.deps.json
+D:\Wipro Assignments\C# DAY 3 ASSIGNMENTS\C#_Day_3_Assignments\bin\Debug\net8.0\C#_Day_3_Assignments.runtimeconfig.json
+D:\Wipro Assignments\C# DAY 3 ASSIGNMENTS\C#_Day_3_Assignments\bin\Debug\net8.0\C#_Day_3_Assignments.dll
+D:\Wipro Assignments\C# DAY 3 ASSIGNMENTS\C#_Day_3_Assignments\bin\Debug\net8.0\C#_Day_3_Assignments.pdb
+D:\Wipro Assignments\C# DAY 3 ASSIGNMENTS\C#_Day_3_Assignments\obj\Debug\net8.0\C#_Day_3_Assignments.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wipro Assignments\C# DAY 3 ASSIGNMENTS\C#_Day_3_Assignments\obj\Debug\net8.0\C#_Day_3_Assignments.AssemblyInfoInputs.cache
+D:\Wipro Assignments\C# DAY 3 ASSIGNMENTS\C#_Day_3_Assignments\obj\Debug\net8.0\C#_Day_3_Assignments.AssemblyInfo.cs
+D:\Wipro Assignments\C# DAY 3 ASSIGNMENTS\C#_Day_3_Assignments\obj\Debug\net8.0\C#_Day_3_Assignments.csproj.CoreCompileInputs.cache
+D:\Wipro Assignments\C# DAY 3 ASSIGNMENTS\C#_Day_3_Assignments\obj\Debug\net8.0\C#_Day_3_Assignments.sourcelink.json
+D:\Wipro Assignments\C# DAY 3 ASSIGNMENTS\C#_Day_3_Assignments\obj\Debug\net8.0\C#_Day_3_Assignments.dll
+D:\Wipro Assignments\C# DAY 3 ASSIGNMENTS\C#_Day_3_Assignments\obj\Debug\net8.0\refint\C#_Day_3_Assignments.dll
+D:\Wipro Assignments\C# DAY 3 ASSIGNMENTS\C#_Day_3_Assignments\obj\Debug\net8.0\C#_Day_3_Assignments.pdb
+D:\Wipro Assignments\C# DAY 3 ASSIGNMENTS\C#_Day_3_Assignments\obj\Debug\net8.0\C#_Day_3_Assignments.genruntimeconfig.cache
+D:\Wipro Assignments\C# DAY 3 ASSIGNMENTS\C#_Day_3_Assignments\obj\Debug\net8.0\ref\C#_Day_3_Assignments.dll
