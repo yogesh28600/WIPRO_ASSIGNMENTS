@@ -1,0 +1,15 @@
+D:\Wipro Assignments\Day 4\Assignment2\obj\Debug\net8.0\Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wipro Assignments\Day 4\Assignment2\obj\Debug\net8.0\Assignment2.AssemblyInfoInputs.cache
+D:\Wipro Assignments\Day 4\Assignment2\obj\Debug\net8.0\Assignment2.AssemblyInfo.cs
+D:\Wipro Assignments\Day 4\Assignment2\obj\Debug\net8.0\Assignment2.csproj.CoreCompileInputs.cache
+D:\Wipro Assignments\Day 4\Assignment2\obj\Debug\net8.0\Assignment2.sourcelink.json
+D:\Wipro Assignments\Day 4\Assignment2\bin\Debug\net8.0\Assignment2.exe
+D:\Wipro Assignments\Day 4\Assignment2\bin\Debug\net8.0\Assignment2.deps.json
+D:\Wipro Assignments\Day 4\Assignment2\bin\Debug\net8.0\Assignment2.runtimeconfig.json
+D:\Wipro Assignments\Day 4\Assignment2\bin\Debug\net8.0\Assignment2.dll
+D:\Wipro Assignments\Day 4\Assignment2\bin\Debug\net8.0\Assignment2.pdb
+D:\Wipro Assignments\Day 4\Assignment2\obj\Debug\net8.0\Assignment2.dll
+D:\Wipro Assignments\Day 4\Assignment2\obj\Debug\net8.0\refint\Assignment2.dll
+D:\Wipro Assignments\Day 4\Assignment2\obj\Debug\net8.0\Assignment2.pdb
+D:\Wipro Assignments\Day 4\Assignment2\obj\Debug\net8.0\Assignment2.genruntimeconfig.cache
+D:\Wipro Assignments\Day 4\Assignment2\obj\Debug\net8.0\ref\Assignment2.dll

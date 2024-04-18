@@ -1,14 +1,20 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Wipro Assignments\\C# DAY 1 ASSIGNMENTS\\C#_Day_1\\",
+  "WorkspaceRootPath": "D:\\Wipro Assignments\\Day 4\\C#_Day_1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{16060572-DCE7-47C4-8EE4-3BE94A753F88}|ConsoleApp1.csproj|d:\\wipro assignments\\c# day 1 assignments\\c#_day_1\\assignment2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16060572-DCE7-47C4-8EE4-3BE94A753F88}|ConsoleApp1.csproj|solutionrelative:assignment2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D0E58EE8-6E1F-4A43-913E-1FFDFEF892F0}|..\\Assignment2\\Assignment2.csproj|d:\\wipro assignments\\day 4\\assignment2\\assignment2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{16060572-DCE7-47C4-8EE4-3BE94A753F88}|ConsoleApp1.csproj|d:\\wipro assignments\\c# day 1 assignments\\c#_day_1\\assignment1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16060572-DCE7-47C4-8EE4-3BE94A753F88}|ConsoleApp1.csproj|solutionrelative:assignment1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D0E58EE8-6E1F-4A43-913E-1FFDFEF892F0}|..\\Assignment2\\Assignment2.csproj|d:\\wipro assignments\\day 4\\assignment2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16060572-DCE7-47C4-8EE4-3BE94A753F88}|Assignment1.csproj|d:\\wipro assignments\\day 4\\c#_day_1\\assignment1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16060572-DCE7-47C4-8EE4-3BE94A753F88}|Assignment1.csproj|solutionrelative:assignment1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16060572-DCE7-47C4-8EE4-3BE94A753F88}|Assignment1.csproj|d:\\wipro assignments\\day 4\\c#_day_1\\assignment1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{16060572-DCE7-47C4-8EE4-3BE94A753F88}|Assignment1.csproj|solutionrelative:assignment1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,22 +30,48 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Assignment2.cs",
-              "DocumentMoniker": "D:\\Wipro Assignments\\C# DAY 1 ASSIGNMENTS\\C#_Day_1\\Assignment2.cs",
-              "RelativeDocumentMoniker": "Assignment2.cs",
-              "ToolTip": "D:\\Wipro Assignments\\C# DAY 1 ASSIGNMENTS\\C#_Day_1\\Assignment2.cs",
-              "RelativeToolTip": "Assignment2.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "DocumentMoniker": "D:\\Wipro Assignments\\Day 4\\Assignment2\\Assignment2.cs",
+              "RelativeDocumentMoniker": "..\\Assignment2\\Assignment2.cs",
+              "ToolTip": "D:\\Wipro Assignments\\Day 4\\Assignment2\\Assignment2.cs",
+              "RelativeToolTip": "..\\Assignment2\\Assignment2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T05:49:50.255Z",
+              "WhenOpened": "2024-04-18T13:04:28.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Assignment1.csproj",
+              "DocumentMoniker": "D:\\Wipro Assignments\\Day 4\\C#_Day_1\\Assignment1.csproj",
+              "RelativeDocumentMoniker": "Assignment1.csproj",
+              "ToolTip": "D:\\Wipro Assignments\\Day 4\\C#_Day_1\\Assignment1.csproj",
+              "RelativeToolTip": "Assignment1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-18T12:45:44.22Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Wipro Assignments\\Day 4\\Assignment2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Assignment2\\Program.cs",
+              "ToolTip": "D:\\Wipro Assignments\\Day 4\\Assignment2\\Program.cs",
+              "RelativeToolTip": "..\\Assignment2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T12:45:09.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Assignment1.cs",
-              "DocumentMoniker": "D:\\Wipro Assignments\\C# DAY 1 ASSIGNMENTS\\C#_Day_1\\Assignment1.cs",
+              "DocumentMoniker": "D:\\Wipro Assignments\\Day 4\\C#_Day_1\\Assignment1.cs",
               "RelativeDocumentMoniker": "Assignment1.cs",
-              "ToolTip": "D:\\Wipro Assignments\\C# DAY 1 ASSIGNMENTS\\C#_Day_1\\Assignment1.cs",
+              "ToolTip": "D:\\Wipro Assignments\\Day 4\\C#_Day_1\\Assignment1.cs",
               "RelativeToolTip": "Assignment1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAFkAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

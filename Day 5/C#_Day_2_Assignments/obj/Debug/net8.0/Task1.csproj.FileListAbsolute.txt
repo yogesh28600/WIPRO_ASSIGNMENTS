@@ -1,0 +1,5 @@
+D:\Wipro Assignments\Day 5\C#_Day_2_Assignments\obj\Debug\net8.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wipro Assignments\Day 5\C#_Day_2_Assignments\obj\Debug\net8.0\Task1.AssemblyInfoInputs.cache
+D:\Wipro Assignments\Day 5\C#_Day_2_Assignments\obj\Debug\net8.0\Task1.AssemblyInfo.cs
+D:\Wipro Assignments\Day 5\C#_Day_2_Assignments\obj\Debug\net8.0\Task1.csproj.CoreCompileInputs.cache
+D:\Wipro Assignments\Day 5\C#_Day_2_Assignments\obj\Debug\net8.0\Task1.sourcelink.json

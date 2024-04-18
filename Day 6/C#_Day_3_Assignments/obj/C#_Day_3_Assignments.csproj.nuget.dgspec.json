@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Wipro Assignments\\C# DAY 3 ASSIGNMENTS\\C#_Day_3_Assignments\\C#_Day_3_Assignments.csproj": {}
+    "D:\\Wipro Assignments\\Day 6\\C#_Day_3_Assignments\\C#_Day_3_Assignments.csproj": {}
   },
   "projects": {
-    "D:\\Wipro Assignments\\C# DAY 3 ASSIGNMENTS\\C#_Day_3_Assignments\\C#_Day_3_Assignments.csproj": {
+    "D:\\Wipro Assignments\\Day 6\\C#_Day_3_Assignments\\C#_Day_3_Assignments.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Wipro Assignments\\C# DAY 3 ASSIGNMENTS\\C#_Day_3_Assignments\\C#_Day_3_Assignments.csproj",
+        "projectUniqueName": "D:\\Wipro Assignments\\Day 6\\C#_Day_3_Assignments\\C#_Day_3_Assignments.csproj",
         "projectName": "C#_Day_3_Assignments",
-        "projectPath": "D:\\Wipro Assignments\\C# DAY 3 ASSIGNMENTS\\C#_Day_3_Assignments\\C#_Day_3_Assignments.csproj",
+        "projectPath": "D:\\Wipro Assignments\\Day 6\\C#_Day_3_Assignments\\C#_Day_3_Assignments.csproj",
         "packagesPath": "C:\\Users\\yoges\\.nuget\\packages\\",
-        "outputPath": "D:\\Wipro Assignments\\C# DAY 3 ASSIGNMENTS\\C#_Day_3_Assignments\\obj\\",
+        "outputPath": "D:\\Wipro Assignments\\Day 6\\C#_Day_3_Assignments\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yoges\\AppData\\Roaming\\NuGet\\NuGet.Config",
