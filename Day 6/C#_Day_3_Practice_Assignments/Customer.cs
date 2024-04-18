@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Assignment3
+﻿namespace Assignment3
 {
     internal class Customer
     {
@@ -13,7 +7,7 @@ namespace Assignment3
         {
             foreach(var product in Admin.products)
             {
-                if(product.pname == name)
+                if(product.pname.ToLower().Equals( name))
                 {
                     Console.WriteLine($"[  Product Name: {product.pname} Quantity: {product.qty_in_stock} Discount: {product.discount_allowed} ]");
                 }
@@ -23,17 +17,24 @@ namespace Assignment3
         {
             foreach(var product in Admin.products)
             {
-                if(product.pname == productName)
+                if(product.pname.ToLower().Equals(productName))
                 {
-                    string[] date = DateTime.Now.ToString().Split("/");
+                    string[] date = DateTime.Now.ToString().Split("-");
                     double discount = product.discount_allowed;
-                    int day = int.Parse(date[1]);
-                    int month = int.Parse(date[0]);
+                    int day = int.Parse(date[0]);
+                    int month = int.Parse(date[1]);
                     if (day == 26 && month == 1)
                     {
                         discount = 0.5;
                     }
-                    bill += product.price * discount;
+                    if(discount != 0)
+                    {
+                        bill += product.price * discount;
+                    }else
+                    {
+                        bill += product.price;
+                    }
+                    
                 }
             }
          

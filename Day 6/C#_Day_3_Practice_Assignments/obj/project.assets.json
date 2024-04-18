@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Wipro Assignments\\C# DAY 3 ASSIGNMENTS\\Assignment3\\Assignment3.csproj",
+      "projectUniqueName": "D:\\Wipro Assignments\\Day 6\\C#_Day_3_Practice_Assignments\\Assignment3.csproj",
       "projectName": "Assignment3",
-      "projectPath": "D:\\Wipro Assignments\\C# DAY 3 ASSIGNMENTS\\Assignment3\\Assignment3.csproj",
+      "projectPath": "D:\\Wipro Assignments\\Day 6\\C#_Day_3_Practice_Assignments\\Assignment3.csproj",
       "packagesPath": "C:\\Users\\yoges\\.nuget\\packages\\",
-      "outputPath": "D:\\Wipro Assignments\\C# DAY 3 ASSIGNMENTS\\Assignment3\\obj\\",
+      "outputPath": "D:\\Wipro Assignments\\Day 6\\C#_Day_3_Practice_Assignments\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\yoges\\AppData\\Roaming\\NuGet\\NuGet.Config",
