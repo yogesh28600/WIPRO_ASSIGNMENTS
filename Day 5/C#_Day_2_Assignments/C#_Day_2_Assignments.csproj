@@ -5,7 +5,6 @@
     <TargetFramework>net8.0</TargetFramework>
     <RootNamespace>C__Day_2_Assignments</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
-	  <StartupObject>C__Day_2_Assignments.Task3</StartupObject>
     <Nullable>disable</Nullable>
   </PropertyGroup>
 

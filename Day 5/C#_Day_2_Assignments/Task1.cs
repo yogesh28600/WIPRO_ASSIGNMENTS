@@ -6,7 +6,18 @@ namespace C__Day_2_Assignments
     {
         static void Main(string[] args)
         {
-            conversion();
+            //int[] arr = { 1, 2, 3 ,4,5,6,7};
+            //var result =Task5.SliceArray(arr, 1, 6);
+            //foreach (int i in result)
+            //{
+            //    Console.WriteLine(i);
+            //}
+            int[] arr = new int[10];
+            Console.WriteLine(Task5.fib(arr, 10));
+            foreach (int i in arr)
+            {
+                Console.Write(i + " ");
+            }
         }
         static void conversion()
         {
