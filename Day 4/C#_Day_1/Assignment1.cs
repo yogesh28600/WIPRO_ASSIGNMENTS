@@ -4,7 +4,7 @@
     {
         public static void Main(string[] args)
         {
-           
+            checkChar('K'); ;
         }
         // Task 1
         internal static void getNumbers()
