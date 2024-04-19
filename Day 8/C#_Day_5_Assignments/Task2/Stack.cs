@@ -5,7 +5,7 @@ namespace Task2
     {
         static int[] arr = new int[10];
         static int top = -1;
-        public static int push(int num)
+        public  int push(int num)
         {
             if (top >= arr.Length)
             {
@@ -15,16 +15,26 @@ namespace Task2
             arr[++top] = num;
             return top;
         }
-        public static int pop()
+        public  int pop()
         {
             return arr[top--];
         }
-        public static void print()
+        public int peek()
+        {
+            return arr[top];
+        }
+        public bool isEmpty()
+        {
+            bool flag = (top == -1) ?  true :  false;
+            return flag;
+        }
+        public void getElements()
         {
             for(int i = top; i>=0; i--)
             {
-                Console.WriteLine(arr[i]);
+                Console.Write(arr[i] + " ");
             }
+            Console.WriteLine();
         }
     }
 }

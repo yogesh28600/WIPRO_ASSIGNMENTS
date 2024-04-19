@@ -7,7 +7,7 @@ namespace Task2
         static int[] arr = new int[10];
         static int front = -1;
         static int rear = -1;
-        public static int Push(int num)
+        public  int enqueue(int num)
         {
             if(front == rear && front < 0)
             {
@@ -24,20 +24,33 @@ namespace Task2
             }
             return rear;
         }
-        public static int Pop()
+        public  int dequeue()
         {
             return arr[front++];
         }
-        public static void Print()
+        public int peek()
+        {
+            return arr[front];
+        }
+        public bool isEmpty()
+        {
+            if(front == rear && front < 0)
+            {
+                return true;
+            }
+            return false;
+        }
+        public  void getElements()
         {
             if(front >= arr.Length)
             {
                 Console.WriteLine("Queue is Empty");
             }
-            for(int i = 0; i<=rear; i++) 
+            for(int i = front; i<=rear; i++) 
             {
-                Console.WriteLine(arr[i]);
+                Console.Write(arr[i] + " ");
             }
+            Console.WriteLine();
         }
     }
 }
